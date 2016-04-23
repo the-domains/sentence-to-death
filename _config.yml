@@ -1,0 +1,28 @@
+name: Sentence to Death
+favicon: null
+layout_spectrum: 0.8878459350671619
+typography_spectrum: 0.6710318892728537
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7440108940936625
+  lightness: 0.5640309306327254
+  saturation: 0.5912873190827668
+  rhythmicContrast: 0.8988939637783915
+purpose: []
